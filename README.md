@@ -63,4 +63,17 @@ twine upload dist/*
 
 ## Thanks for the contributors
 <!-- readme: collaborators,contributors -start -->
+<table>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/wufei-png">
+                    <img src="https://avatars.githubusercontent.com/u/63766429?v=4" width="100;" alt="wufei-png"/>
+                    <br />
+                    <sub><b>Wu Fei</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
+</table>
 <!-- readme: collaborators,contributors -end -->
